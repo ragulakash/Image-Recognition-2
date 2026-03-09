@@ -37,7 +37,7 @@ The following results were obtained using the provided benchmarking pipeline.
 | **MobileNetV2** | Deep Learning | 20.00% | 2.34 | 39.46 | 2,261,827 |
 
 > [!NOTE]
-> **Dataset Insight**: The current results are based on **Synthetic Colored Noise** data generated for logic verification. To achieve higher accuracy, please provide real-world datasets in the `data/` directory.
+> **Dataset Insight**: The current results are based on **Synthetic Colored Noise** data. For a technical deep-dive into how this data is generated and processed, see the [**Detailed Dataset Report (DATASET.md)**](DATASET.md).
 
 ---
 
